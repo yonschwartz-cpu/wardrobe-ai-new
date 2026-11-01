@@ -1,0 +1,16 @@
+{
+  "name": "WARDROBE AI",
+  "short_name": "WARDROBE AI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f3ef",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
